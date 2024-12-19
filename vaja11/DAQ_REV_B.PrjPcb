@@ -321,6 +321,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDARIBDV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DAQ_REV_B\Design Rule Check - DAQ.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
